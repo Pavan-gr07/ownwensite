@@ -1,0 +1,32 @@
+body{
+  background-color: #A5F1E9;
+  text-align: center;
+}
+h1{
+  width: 50%;
+font-family:'Sacramento', cursive;
+color:#C060A1;
+font-size: 5.5em;
+  margin:0 auto 0 auto;
+}
+.grs{
+  position:relative;
+  right: 400px;
+}
+.para{
+  font-size: 50px;
+}
+p{
+  font-size:20px;
+font-style: normal;
+  font-family: serif;
+}
+.bottom-cloud{
+  position: absolute;
+  bottom: 75px;
+  left: 400px;
+}
+.top-cloud{
+  position: relative;
+  left: 400px;
+}
